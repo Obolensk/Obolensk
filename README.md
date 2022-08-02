@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://www.logicalresources.com/wp-content/uploads/2019/12/python-developer-1200x500.png" width="600" height="300"/>
+</div>
+
 ## Hi there! My name is Evgeniy Menshaev 👋 
 
 Here are some ideas to get you started:
