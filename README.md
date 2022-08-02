@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 ## 🚀 Technologies I know
 
 
-* HTML, CSS, Python, Django
-* Styling (Material-UI, Bootstrap, Sass)
+* HTML, CSS, Bootstrap, Python, Django
 * Databases (MySQL)
 * Project Management (git, Github, Trello, Jira, Bitbucket, Gitlab)
 * Design (Canva)
-* 
