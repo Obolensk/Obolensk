@@ -21,14 +21,16 @@
 * 💬 Ask me about investments, finance, analysis and data;
 * ✔️ Big fan of accessibility, user-experience and addictively educational websites.
 
+************************** 
 
 
-## 🚀 Technologies I know
+## 🚀 Main Stack
 
-* HTML, CSS, Bootstrap, Python, Django
+* HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
 * Databases (MySQL)
 * Project Management (git, Github, Trello, Jira, Bitbucket, Gitlab)
 * Design (Canva)
+* Data Analysis (Python, NumPy, Pandas, Matplotlib, Seaborn, R, Kaggle, Plotly)
 
 
 ## :hammer_and_wrench: Languages and Tools :
