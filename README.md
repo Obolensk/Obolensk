@@ -1,8 +1,13 @@
-<div align="center">
-  <img src="https://www.logicalresources.com/wp-content/uploads/2019/12/python-developer-1200x500.png" width="600" height="300"/>
-</div>
 
 ## Hi there! My name is Evgeniy Menshaev 👋 
+
+**************************
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Obolensk&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Obolensk&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Obolensk&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Obolensk&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Obolensk&theme=github_dark)
 
 **************************
 
