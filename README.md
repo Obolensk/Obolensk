@@ -3,6 +3,7 @@
 </div>
 
 ## Hi there! My name is Evgeniy Menshaev 👋 
+
 **************************
 
 * :computer: I have developing sites using HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
@@ -72,5 +73,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" **alt="slack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" **alt="trello" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="webstorm" **alt="webstorm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="webstorm" **alt="webstorm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
+
 </div>
