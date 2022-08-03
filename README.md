@@ -27,7 +27,7 @@
 
 * HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
 * Databases (MySQL);
-* Project Management (git, Github, Trello, Jira, Bitbucket, Gitlab);
+* Project Management (Git, Github, Trello, Jira, Bitbucket, Gitlab);
 * Design (Canva);
 * Data Analysis (Python, NumPy, Pandas, Matplotlib, Seaborn, R, Kaggle, Plotly).
 
