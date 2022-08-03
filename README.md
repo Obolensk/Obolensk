@@ -7,14 +7,13 @@
 **************************
 
 * :computer: I have developing sites using HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
-
 * :scroll: I’m currently studying to be a Data Science engineer;
 * :notebook: I’m currently learning Python for Data Science, Deep Math for Data Science;
 * :blue_book: Different special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn;
 * :hammer: Machine learning tools, Deep Learning, SymPy, Charts, Math objects, MSE, Kaggle;
 * :newspaper: Also learning R, Dashboards, R view, Plotly, Performance metrics; 
-* :books: NLP, Q-Learning, Deep Q-Learning
-* :mortar_board: I’m currently learning a Python for Data Science, deep math for Data Science;
+* :books: NLP, Q-Learning, Deep Q-Learning;
+* :mortar_board: I’m currently learning a Python for Data Science, deep math for Data Science.
 
 ************************** 
 
@@ -24,15 +23,15 @@
 
 ************************** 
 
-
 ## 🚀 Main Stack
 
 * HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
-* Databases (MySQL)
-* Project Management (git, Github, Trello, Jira, Bitbucket, Gitlab)
-* Design (Canva)
-* Data Analysis (Python, NumPy, Pandas, Matplotlib, Seaborn, R, Kaggle, Plotly)
+* Databases (MySQL);
+* Project Management (git, Github, Trello, Jira, Bitbucket, Gitlab);
+* Design (Canva);
+* Data Analysis (Python, NumPy, Pandas, Matplotlib, Seaborn, R, Kaggle, Plotly).
 
+************************** 
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -76,5 +75,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="webstorm" **alt="webstorm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" **alt="bitbucket" width="40" height="40"/>
-
 </div>
