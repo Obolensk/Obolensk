@@ -3,11 +3,18 @@
 </div>
 
 ## Hi there! My name is Evgeniy Menshaev 👋 
+**************************
 
-Here are some ideas to get you started:
+* :scroll: I’m currently studying to be a Data Science engineer;
+* :notebook: I’m currently learning Python for Data Science, Deep Math for Data Science;
+* :blue_book: Different special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn;
+* :hammer: Machine learning tools, Deep Learning, SymPy, Charts, Math objects, MSE, Kaggle;
+* :newspaper: Also learning R, Dashboards, R view, Plotly, Performance metrics; 
+* :books: NLP, Q-Learning, Deep Q-Learning
+* :mortar_board: I’m currently learning a Python for Data Science, deep math for Data Science;
 
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
+************************** 
+
 * 👯 I’m looking to collaborate on ...
 * 🤔 I’m looking for help with ...
 * 💬 Ask me about ...
