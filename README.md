@@ -17,7 +17,7 @@
 * :blue_book: Different special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn;
 * :hammer: Machine learning tools, Deep Learning, SymPy, Charts, Math objects, MSE, Kaggle;
 * :newspaper: Also learning R, Dashboards, R view, Plotly, Performance metrics; 
-* :books: NLP, Q-Learning, Deep Q-Learning;
+* :books: NLP, Q-Learning, Deep Q-Learning.
 
 ************************** 
 
