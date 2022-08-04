@@ -18,7 +18,6 @@
 * :hammer: Machine learning tools, Deep Learning, SymPy, Charts, Math objects, MSE, Kaggle;
 * :newspaper: Also learning R, Dashboards, R view, Plotly, Performance metrics; 
 * :books: NLP, Q-Learning, Deep Q-Learning;
-* :mortar_board: I’m currently learning a Python for Data Science, deep math for Data Science.
 
 ************************** 
 
