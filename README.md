@@ -11,7 +11,7 @@
 
 **************************
 
-* :computer: I develope sites using HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
+* :computer: I develop sites using HTML, CSS, Bootstrap, WordPress, Python/Django and much more;
 * :scroll: I’m currently studying to be a Data Science engineer;
 * :notebook: I’m currently learning Python for Data Science, Deep Math for Data Science;
 * :blue_book: Different special frameworks and libraries such as NumPy, Pandas, Matplotlib, Seaborn;
